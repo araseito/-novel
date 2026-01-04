@@ -307,9 +307,9 @@
 ---
 
 ## 付録参照
-- appendix/worldview.md
-- appendix/characters.md
-- appendix/glossary.md
+- worldview.md
+- characters.md
+- glossary.md
 
 ---
 
